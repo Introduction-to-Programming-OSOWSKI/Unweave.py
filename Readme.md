@@ -1,16 +1,26 @@
-# **Assignment Title**  
+# **Unweave**  
 
 ## **Assignment Description**  
-
+Create a function called unweave() that take a given word w and unweaves it into two new words. To unweave a word, remove every other letter and combine those letters to make a new word. Return these two new words with a space in between them
 
 ## **Examples**  
->
+>unweave("minnesota")  
+mneoa inst  
+
+>unweave("intelligence")  
+itliec nelgne  
 
 ## **Limitations**  
+1 function  
+1 for loop  
+0 if  
+o else  
 
 ## **Hints**  
+If you add a third number to in range(), it sets the iteration to that number.  
 
 ## **Concepts**  
+Unit 1, Unit 2, for loops, lists  
 
 ---
 
