@@ -12,7 +12,7 @@ itliec nelgne
 
 ## **Limitations**  
 1 function  
-1 for loop  
+2 for loops  
 0 if  
 o else  
 
